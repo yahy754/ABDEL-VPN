@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Cameroon Server 1",
+    "address": "server1.abdelvpn.com",
+    "port": 443,
+    "uuid": "e1f7c2d0-1111-2222-3333-abcdef123456",
+    "network": "ws",
+    "path": "/v2ray"
+  },
+
+  {
+    "name": "Cameroon Server 2",
+    "address": "server2.abdelvpn.com",
+    "port": 443,
+    "uuid": "e1f7c2d0-1111-2222-3333-abcdef123456",
+    "network": "ws",
+    "path": "/v2ray"
+  }
+]
+Tu peux ajouter jusqu'à
